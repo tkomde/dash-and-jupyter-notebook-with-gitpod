@@ -3,7 +3,7 @@
 Simple sample to develop [dash - A web application framework for Python](https://plot.ly/products/dash/) application on [gitpod](https://gitpod.io/).
 You can develop dash web apps with chromebooks!
 
-![Screen shot](./sshot.jpg "Screen shot")
+![Screen shot](./sshot.png "Screen shot")
 
 # Usage
 
