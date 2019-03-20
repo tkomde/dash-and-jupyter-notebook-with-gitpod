@@ -6,8 +6,8 @@ You can develop dash web apps with chromebooks!
 # Usage
 
 - Open this repository with gitpod.
-- Init script loads dash components and forward port (will be prompted to expose port and open with another tab(or preview app!)).
-- Run `python dash_intro.py` in terminal, and reload page (or preview).
+- Init script loads dash components and forward port (will be prompted to expose port and open another tab(or preview)).
+- Run `python dash_intro.py` in terminal, and reload tab (or reload preview).
 
 # License
 
