@@ -1,2 +1,2 @@
 tasks:
-- command: /workspace/plotly-dash/run.sh
+- command: /workspace/dash-with-gitpod/run.sh
