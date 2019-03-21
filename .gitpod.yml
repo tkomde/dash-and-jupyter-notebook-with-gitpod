@@ -1,2 +1,6 @@
+ports:
+- port: 8050
+  onOpen: open-preview
 tasks:
-- command: /workspace/dash-with-gitpod/run.sh
+- init: /workspace/dash-with-gitpod/run.sh
+  command: python dash_intro.py
