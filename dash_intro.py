@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys
 import os
-sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/site_packages')
+#sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/site_packages')
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
