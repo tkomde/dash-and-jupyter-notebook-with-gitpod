@@ -4,4 +4,4 @@ ports:
 - port: 8888
   onOpen: open-browser
 tasks:
-- init: /workspace/dash-with-gitpod/run.sh
+- init: /workspace/dash-and-jupyter-notebook-with-gitpod/run.sh
