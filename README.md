@@ -9,6 +9,10 @@ You can develop dash web apps with chromebooks!
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jins-tkomoda/dash-with-gitpod)
 
+- init: /workspace/dash-with-gitpod/run.sh
+  command: python3 dash_intro.py
+
+
 # License
 
 MIT
