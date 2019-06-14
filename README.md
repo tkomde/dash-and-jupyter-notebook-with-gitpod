@@ -1,27 +1,28 @@
-# dash-with-gitpod
+# dash-and-jupyter-notebook-with-gitpod
 
-Simple sample to develop [dash - A web application framework for Python](https://plot.ly/products/dash/) application on [gitpod](https://gitpod.io/).
-You can develop dash web apps with chromebooks!
+Simple samples to develop [Dash - A web application framework for Python](https://plot.ly/products/dash/)
+and [jupyter-notebook](https://jupyter.org/) applications on [gitpod](https://gitpod.io/). You can develop and analyse everywhere you like!
 
 ![Screen shot](./sshot.png "Screen shot")
+![Screen shot2](./sshot2.png "Screen shot2")
 
 # Usage
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jins-tkomoda/dash-with-gitpod)
 
-## dash simple sample
+## Dash ~ simple sample
 
-`python3 dash_intro.py`
+Type in terminal: $ `python3 dash_intro.py`
 
-## dash file in/out sample
+## Dash ~ file-open/upload sample
 
-`python3 file_handling.py`
+Type in terminal: $ `python3 file_handling.py`
 
 ## jupyter notebook
 
-`jupyter notebook`
+Type in terminal: $ `jupyter notebook`
 
-You can see a message like followings.
+After jupyter notebook start-up, you can see a message like followings in terminal.
 
 ```
 To access the notebook, open this file in a browser:
@@ -31,7 +32,7 @@ Or copy and paste one of these URLs:
 ```
 
 Then access http://ws-12345678-1234-1234-1234-1234567890ab:8888/?token=abcdef1234567890123456789012345678901234567890 in browser tab.
-
+(Host name and token will be varied.)
 
 # License
 
